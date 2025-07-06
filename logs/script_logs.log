@@ -1,0 +1,102 @@
+2025-07-06 14:40:49 - INFO- Checking email syntax for jainjayesh5656@gmail.com
+2025-07-06 14:40:49 - INFO- Email syntax check result: True
+2025-07-06 14:40:49 - INFO- Checking MX record for gmail.com
+2025-07-06 14:40:49 - INFO- MX record check result: True, MX records:['alt1.gmail-smtp-in.l.google.com.', 'alt3.gmail-smtp-in.l.google.com.', 'gmail-smtp-in.l.google.com.', 'alt4.gmail-smtp-in.l.google.com.', 'alt2.gmail-smtp-in.l.google.com.']
+2025-07-06 14:40:49 - INFO- Added gmail.com to valid domains file
+2025-07-06 14:40:49 - INFO- Checking disposable email domain for gmail.com
+2025-07-06 14:40:49 - INFO- Disposable email domain check result: False
+2025-07-06 14:40:49 - INFO- Checking catchall for gmail.com
+2025-07-06 14:40:49 - INFO- Attempting to connect at alt1.gmail-smtp-in.l.google.com. with port:25
+2025-07-06 14:40:51 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:40:51 - INFO- Echoing the server: (250, b'mx.google.com at your service, [139.5.236.210]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8')
+2025-07-06 14:40:51 - INFO- Simulating sender address: (553, b'5.1.7 The sender address <your> is not a valid RFC 5321 address. For more\n5.1.7 information, go to\n5.1.7  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.7 specifications. 41be03b00d2f7-b38ee4c2cf4si7387420a12.325 - gsmtp')
+2025-07-06 14:40:51 - INFO- Simulating recipient address: nv2zk9m3jyfalan@gmail.com
+2025-07-06 14:40:52 - INFO- RCPT TO command result: 503, b'5.5.1 MAIL first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. 41be03b00d2f7-b38ee4c2cf4si7387420a12.325 - gsmtp'
+2025-07-06 14:40:52 - INFO- Added gmail.com to not catchall domains file
+2025-07-06 14:40:52 - INFO- Checking deliverability for gmail.com
+2025-07-06 14:40:52 - INFO- Attempting to connect at alt1.gmail-smtp-in.l.google.com. with port:25
+2025-07-06 14:40:53 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:40:53 - INFO- Echoing the server: (250, b'mx.google.com at your service, [139.5.236.210]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8')
+2025-07-06 14:40:53 - INFO- Simulating sender address: (553, b'5.1.7 The sender address <your> is not a valid RFC 5321 address. For more\n5.1.7 information, go to\n5.1.7  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.7 specifications. d2e1a72fcca58-74ce4037d65si7727117b3a.192 - gsmtp')
+2025-07-06 14:40:53 - INFO- RCPT TO command result: 503, b'5.5.1 MAIL first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. d2e1a72fcca58-74ce4037d65si7727117b3a.192 - gsmtp'
+2025-07-06 14:42:15 - INFO- Checking email syntax for jainjayesh5656@gmail.com
+2025-07-06 14:42:15 - INFO- Email syntax check result: True
+2025-07-06 14:42:15 - INFO- gmail.com is in valid domains file
+2025-07-06 14:42:15 - INFO- Checking disposable email domain for gmail.com
+2025-07-06 14:42:15 - INFO- Disposable email domain check result: False
+2025-07-06 14:42:15 - INFO- gmail.com is in not catchall domains file
+2025-07-06 14:42:15 - INFO- Checking deliverability for gmail.com
+2025-07-06 14:42:15 - INFO- Attempting to connect at alt4.gmail-smtp-in.l.google.com. with port:25
+2025-07-06 14:42:17 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:42:17 - INFO- Echoing the server: (250, b'mx.google.com at your service, [139.5.236.210]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8')
+2025-07-06 14:42:17 - INFO- Simulating sender address: (553, b'5.1.7 The sender address <your> is not a valid RFC 5321 address. For more\n5.1.7 information, go to\n5.1.7  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.7 specifications. 586e51a60fabf-2f79004a7c4si3741447fac.118 - gsmtp')
+2025-07-06 14:42:18 - INFO- RCPT TO command result: 503, b'5.5.1 MAIL first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. 586e51a60fabf-2f79004a7c4si3741447fac.118 - gsmtp'
+2025-07-06 14:42:18 - INFO- Checking email syntax for vabave6844@dxirl.com
+2025-07-06 14:42:18 - INFO- Email syntax check result: True
+2025-07-06 14:42:18 - INFO- Checking MX record for dxirl.com
+2025-07-06 14:42:18 - INFO- MX record check result: True, MX records:['mail.dxirl.com.']
+2025-07-06 14:42:18 - INFO- Added dxirl.com to valid domains file
+2025-07-06 14:42:18 - INFO- Checking disposable email domain for dxirl.com
+2025-07-06 14:42:18 - INFO- Disposable email domain check result: False
+2025-07-06 14:42:18 - INFO- Checking catchall for dxirl.com
+2025-07-06 14:42:18 - INFO- Attempting to connect at mail.dxirl.com. with port:25
+2025-07-06 14:42:18 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:42:19 - INFO- Echoing the server: (250, b'd251060adac7 Hello Unknown [10.244.2.186], Haraka is at your service.\nPIPELINING\n8BITMIME\nSMTPUTF8\nSIZE 12580000')
+2025-07-06 14:42:19 - INFO- Simulating sender address: (501, b'Invalid MAIL FROM address')
+2025-07-06 14:42:19 - INFO- Simulating recipient address: 7hqb7bdsqjfalan@dxirl.com
+2025-07-06 14:42:19 - INFO- RCPT TO command result: 503, b'Use MAIL before RCPT'
+2025-07-06 14:42:19 - INFO- Added dxirl.com to not catchall domains file
+2025-07-06 14:42:19 - INFO- Checking deliverability for dxirl.com
+2025-07-06 14:42:19 - INFO- Attempting to connect at mail.dxirl.com. with port:25
+2025-07-06 14:42:20 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:42:20 - INFO- Echoing the server: (250, b'd251060adac7 Hello Unknown [10.244.0.112], Haraka is at your service.\nPIPELINING\n8BITMIME\nSMTPUTF8\nSIZE 12580000')
+2025-07-06 14:42:20 - INFO- Simulating sender address: (501, b'Invalid MAIL FROM address')
+2025-07-06 14:42:21 - INFO- RCPT TO command result: 503, b'Use MAIL before RCPT'
+2025-07-06 14:43:16 - INFO- Checking email syntax for vabave6844@dxirl.com
+2025-07-06 14:43:16 - INFO- Email syntax check result: True
+2025-07-06 14:43:16 - INFO- dxirl.com is in valid domains file
+2025-07-06 14:43:16 - INFO- Checking disposable email domain for dxirl.com
+2025-07-06 14:43:16 - INFO- Disposable email domain check result: False
+2025-07-06 14:43:16 - INFO- dxirl.com is in not catchall domains file
+2025-07-06 14:43:16 - INFO- Checking deliverability for dxirl.com
+2025-07-06 14:43:16 - INFO- Attempting to connect at mail.dxirl.com. with port:25
+2025-07-06 14:43:17 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:43:17 - INFO- Echoing the server: (250, b'd251060adac7 Hello Unknown [10.244.4.183], Haraka is at your service.\nPIPELINING\n8BITMIME\nSMTPUTF8\nSIZE 12580000')
+2025-07-06 14:43:17 - INFO- Simulating sender address: (501, b'Invalid MAIL FROM address')
+2025-07-06 14:43:18 - INFO- RCPT TO command result: 503, b'Use MAIL before RCPT'
+2025-07-06 14:44:18 - INFO- Checking email syntax for jainjayesh79@gmail.com
+2025-07-06 14:44:18 - INFO- Email syntax check result: True
+2025-07-06 14:44:18 - INFO- gmail.com is in valid domains file
+2025-07-06 14:44:18 - INFO- Checking disposable email domain for gmail.com
+2025-07-06 14:44:18 - INFO- Disposable email domain check result: False
+2025-07-06 14:44:18 - INFO- gmail.com is in not catchall domains file
+2025-07-06 14:44:18 - INFO- Checking deliverability for gmail.com
+2025-07-06 14:44:18 - INFO- Attempting to connect at alt2.gmail-smtp-in.l.google.com. with port:25
+2025-07-06 14:44:19 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:44:19 - INFO- Echoing the server: (250, b'mx.google.com at your service, [139.5.236.210]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8')
+2025-07-06 14:44:19 - INFO- Simulating sender address: (553, b'5.1.7 The sender address <your> is not a valid RFC 5321 address. For more\n5.1.7 information, go to\n5.1.7  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.7 specifications. d9443c01a7336-23c84575593si83089145ad.496 - gsmtp')
+2025-07-06 14:44:20 - INFO- RCPT TO command result: 503, b'5.5.1 MAIL first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. d9443c01a7336-23c84575593si83089145ad.496 - gsmtp'
+2025-07-06 14:46:15 - INFO- Checking email syntax for jainjayesh79012588@gmail.com
+2025-07-06 14:46:15 - INFO- Email syntax check result: True
+2025-07-06 14:46:15 - INFO- gmail.com is in valid domains file
+2025-07-06 14:46:15 - INFO- Checking disposable email domain for gmail.com
+2025-07-06 14:46:15 - INFO- Disposable email domain check result: False
+2025-07-06 14:46:15 - INFO- gmail.com is in not catchall domains file
+2025-07-06 14:46:15 - INFO- Checking deliverability for gmail.com
+2025-07-06 14:46:15 - INFO- Attempting to connect at alt1.gmail-smtp-in.l.google.com. with port:25
+2025-07-06 14:46:16 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:46:16 - INFO- Echoing the server: (250, b'mx.google.com at your service, [139.5.236.210]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8')
+2025-07-06 14:46:17 - INFO- Simulating sender address: (553, b'5.1.7 The sender address <your> is not a valid RFC 5321 address. For more\n5.1.7 information, go to\n5.1.7  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.7 specifications. d2e1a72fcca58-74ce415328asi7339804b3a.245 - gsmtp')
+2025-07-06 14:46:17 - INFO- RCPT TO command result: 503, b'5.5.1 MAIL first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. d2e1a72fcca58-74ce415328asi7339804b3a.245 - gsmtp'
+2025-07-06 14:46:51 - INFO- Checking email syntax for jainjayesh799@gmail.com
+2025-07-06 14:46:51 - INFO- Email syntax check result: True
+2025-07-06 14:46:51 - INFO- gmail.com is in valid domains file
+2025-07-06 14:46:51 - INFO- Checking disposable email domain for gmail.com
+2025-07-06 14:46:51 - INFO- Disposable email domain check result: False
+2025-07-06 14:46:51 - INFO- gmail.com is in not catchall domains file
+2025-07-06 14:46:51 - INFO- Checking deliverability for gmail.com
+2025-07-06 14:46:51 - INFO- Attempting to connect at alt4.gmail-smtp-in.l.google.com. with port:25
+2025-07-06 14:46:53 - INFO- Setting SMTP debug level: 0
+2025-07-06 14:46:53 - INFO- Echoing the server: (250, b'mx.google.com at your service, [139.5.236.210]\nSIZE 157286400\n8BITMIME\nSTARTTLS\nENHANCEDSTATUSCODES\nPIPELINING\nCHUNKING\nSMTPUTF8')
+2025-07-06 14:46:54 - INFO- Simulating sender address: (553, b'5.1.7 The sender address <your> is not a valid RFC 5321 address. For more\n5.1.7 information, go to\n5.1.7  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.7 specifications. 586e51a60fabf-2f790132b11si4594182fac.197 - gsmtp')
+2025-07-06 14:46:54 - INFO- RCPT TO command result: 503, b'5.5.1 MAIL first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. 586e51a60fabf-2f790132b11si4594182fac.197 - gsmtp'

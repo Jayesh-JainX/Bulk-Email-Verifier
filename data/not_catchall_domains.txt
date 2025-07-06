@@ -1,0 +1,6 @@
+business.net
+company.org
+domain.test
+dxirl.com
+example.com
+gmail.com

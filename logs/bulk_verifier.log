@@ -1,0 +1,43 @@
+2025-07-06 15:10:05 - INFO- Starting validation of 7 emails
+2025-07-06 15:10:22 - INFO- Cache cleared
+2025-07-06 15:10:22 - INFO- Validation completed. Statistics:
+2025-07-06 15:10:22 - INFO- total_emails: 9
+2025-07-06 15:10:22 - INFO- valid_syntax: 0
+2025-07-06 15:10:22 - INFO- has_mx_record: 0
+2025-07-06 15:10:22 - INFO- not_disposable: 7
+2025-07-06 15:10:22 - INFO- not_catchall: 7
+2025-07-06 15:10:22 - INFO- deliverable: 0
+2025-07-06 15:10:22 - INFO- avg_quality_score: 0.0
+2025-07-06 15:12:35 - INFO- Starting validation of 1 emails
+2025-07-06 15:12:38 - ERROR- Error writing results: [Errno 13] Permission denied: 'emails_validated.csv'
+2025-07-06 15:12:38 - ERROR- Bulk validation failed: [Errno 13] Permission denied: 'emails_validated.csv'
+2025-07-06 15:13:18 - INFO- Starting validation of 8 emails
+2025-07-06 15:13:28 - INFO- Cache cleared
+2025-07-06 15:13:28 - INFO- Validation completed. Statistics:
+2025-07-06 15:13:28 - INFO- total_emails: 8
+2025-07-06 15:13:28 - INFO- valid_syntax: 1
+2025-07-06 15:13:28 - INFO- has_mx_record: 1
+2025-07-06 15:13:28 - INFO- not_disposable: 7
+2025-07-06 15:13:28 - INFO- not_catchall: 8
+2025-07-06 15:13:28 - INFO- deliverable: 0
+2025-07-06 15:13:28 - INFO- avg_quality_score: 0.0
+2025-07-06 15:16:11 - INFO- Starting validation of 1 emails
+2025-07-06 15:16:13 - INFO- Cache cleared
+2025-07-06 15:16:13 - INFO- Validation completed. Statistics:
+2025-07-06 15:16:13 - INFO- total_emails: 9
+2025-07-06 15:16:13 - INFO- valid_syntax: 1
+2025-07-06 15:16:13 - INFO- has_mx_record: 1
+2025-07-06 15:16:13 - INFO- not_disposable: 8
+2025-07-06 15:16:13 - INFO- not_catchall: 9
+2025-07-06 15:16:13 - INFO- deliverable: 0
+2025-07-06 15:16:13 - INFO- avg_quality_score: 0.0
+2025-07-06 15:16:53 - INFO- Starting validation of 1 emails
+2025-07-06 15:16:55 - INFO- Cache cleared
+2025-07-06 15:16:55 - INFO- Validation completed. Statistics:
+2025-07-06 15:16:55 - INFO- total_emails: 10
+2025-07-06 15:16:55 - INFO- valid_syntax: 2
+2025-07-06 15:16:55 - INFO- has_mx_record: 2
+2025-07-06 15:16:55 - INFO- not_disposable: 8
+2025-07-06 15:16:55 - INFO- not_catchall: 10
+2025-07-06 15:16:55 - INFO- deliverable: 0
+2025-07-06 15:16:55 - INFO- avg_quality_score: 0.0
